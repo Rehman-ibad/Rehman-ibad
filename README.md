@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rehman-ibad
 - 👀 I’m interested in Socializing and Networking with Chartered Accountants cum Data Analyst
-- 🌱 I’m currently learning Google Data Analysis course
-- 💞️ I’m looking to collaborate on Data Analytics with Chartered Accountants qualification
+- 🌱 I’ve completed Google Data Analytics Professional Certificate
+- 💞️ I’m looking to explore new job opportunities and collaborate on Data Analytics with Chartered Accountants qualification
 - 📫 How to reach me rehman.ibad111@gmail.com
 
 <!---
